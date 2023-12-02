@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\aylin\school\S02-Methods\P03-Calculator\bin\Debug\net7.0\P03-Calculator.exe
+C:\Users\HP\Documents\aylin\school\S02-Methods\P03-Calculator\bin\Debug\net7.0\P03-Calculator.deps.json
+C:\Users\HP\Documents\aylin\school\S02-Methods\P03-Calculator\bin\Debug\net7.0\P03-Calculator.runtimeconfig.json
+C:\Users\HP\Documents\aylin\school\S02-Methods\P03-Calculator\bin\Debug\net7.0\P03-Calculator.dll
+C:\Users\HP\Documents\aylin\school\S02-Methods\P03-Calculator\bin\Debug\net7.0\P03-Calculator.pdb
+C:\Users\HP\Documents\aylin\school\S02-Methods\P03-Calculator\obj\Debug\net7.0\P03-Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\aylin\school\S02-Methods\P03-Calculator\obj\Debug\net7.0\P03-Calculator.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\aylin\school\S02-Methods\P03-Calculator\obj\Debug\net7.0\P03-Calculator.AssemblyInfo.cs
+C:\Users\HP\Documents\aylin\school\S02-Methods\P03-Calculator\obj\Debug\net7.0\P03-Calculator.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\aylin\school\S02-Methods\P03-Calculator\obj\Debug\net7.0\P03-Calculator.dll
+C:\Users\HP\Documents\aylin\school\S02-Methods\P03-Calculator\obj\Debug\net7.0\refint\P03-Calculator.dll
+C:\Users\HP\Documents\aylin\school\S02-Methods\P03-Calculator\obj\Debug\net7.0\P03-Calculator.pdb
+C:\Users\HP\Documents\aylin\school\S02-Methods\P03-Calculator\obj\Debug\net7.0\P03-Calculator.genruntimeconfig.cache
+C:\Users\HP\Documents\aylin\school\S02-Methods\P03-Calculator\obj\Debug\net7.0\ref\P03-Calculator.dll

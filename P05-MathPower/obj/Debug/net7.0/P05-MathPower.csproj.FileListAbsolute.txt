@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\aylin\school\S02-Methods\P05-MathPower\bin\Debug\net7.0\P05-MathPower.exe
+C:\Users\HP\Documents\aylin\school\S02-Methods\P05-MathPower\bin\Debug\net7.0\P05-MathPower.deps.json
+C:\Users\HP\Documents\aylin\school\S02-Methods\P05-MathPower\bin\Debug\net7.0\P05-MathPower.runtimeconfig.json
+C:\Users\HP\Documents\aylin\school\S02-Methods\P05-MathPower\bin\Debug\net7.0\P05-MathPower.dll
+C:\Users\HP\Documents\aylin\school\S02-Methods\P05-MathPower\bin\Debug\net7.0\P05-MathPower.pdb
+C:\Users\HP\Documents\aylin\school\S02-Methods\P05-MathPower\obj\Debug\net7.0\P05-MathPower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\aylin\school\S02-Methods\P05-MathPower\obj\Debug\net7.0\P05-MathPower.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\aylin\school\S02-Methods\P05-MathPower\obj\Debug\net7.0\P05-MathPower.AssemblyInfo.cs
+C:\Users\HP\Documents\aylin\school\S02-Methods\P05-MathPower\obj\Debug\net7.0\P05-MathPower.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\aylin\school\S02-Methods\P05-MathPower\obj\Debug\net7.0\P05-MathPower.dll
+C:\Users\HP\Documents\aylin\school\S02-Methods\P05-MathPower\obj\Debug\net7.0\refint\P05-MathPower.dll
+C:\Users\HP\Documents\aylin\school\S02-Methods\P05-MathPower\obj\Debug\net7.0\P05-MathPower.pdb
+C:\Users\HP\Documents\aylin\school\S02-Methods\P05-MathPower\obj\Debug\net7.0\P05-MathPower.genruntimeconfig.cache
+C:\Users\HP\Documents\aylin\school\S02-Methods\P05-MathPower\obj\Debug\net7.0\ref\P05-MathPower.dll

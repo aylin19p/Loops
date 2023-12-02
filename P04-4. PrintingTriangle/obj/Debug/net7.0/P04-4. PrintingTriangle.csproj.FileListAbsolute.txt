@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\aylin\school\S02-Methods\P04-4. PrintingTriangle\bin\Debug\net7.0\P04-4. PrintingTriangle.exe
+C:\Users\HP\Documents\aylin\school\S02-Methods\P04-4. PrintingTriangle\bin\Debug\net7.0\P04-4. PrintingTriangle.deps.json
+C:\Users\HP\Documents\aylin\school\S02-Methods\P04-4. PrintingTriangle\bin\Debug\net7.0\P04-4. PrintingTriangle.runtimeconfig.json
+C:\Users\HP\Documents\aylin\school\S02-Methods\P04-4. PrintingTriangle\bin\Debug\net7.0\P04-4. PrintingTriangle.dll
+C:\Users\HP\Documents\aylin\school\S02-Methods\P04-4. PrintingTriangle\bin\Debug\net7.0\P04-4. PrintingTriangle.pdb
+C:\Users\HP\Documents\aylin\school\S02-Methods\P04-4. PrintingTriangle\obj\Debug\net7.0\P04-4. PrintingTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\aylin\school\S02-Methods\P04-4. PrintingTriangle\obj\Debug\net7.0\P04-4. PrintingTriangle.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\aylin\school\S02-Methods\P04-4. PrintingTriangle\obj\Debug\net7.0\P04-4. PrintingTriangle.AssemblyInfo.cs
+C:\Users\HP\Documents\aylin\school\S02-Methods\P04-4. PrintingTriangle\obj\Debug\net7.0\P04-4. PrintingTriangle.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\aylin\school\S02-Methods\P04-4. PrintingTriangle\obj\Debug\net7.0\P04-4. PrintingTriangle.dll
+C:\Users\HP\Documents\aylin\school\S02-Methods\P04-4. PrintingTriangle\obj\Debug\net7.0\refint\P04-4. PrintingTriangle.dll
+C:\Users\HP\Documents\aylin\school\S02-Methods\P04-4. PrintingTriangle\obj\Debug\net7.0\P04-4. PrintingTriangle.pdb
+C:\Users\HP\Documents\aylin\school\S02-Methods\P04-4. PrintingTriangle\obj\Debug\net7.0\P04-4. PrintingTriangle.genruntimeconfig.cache
+C:\Users\HP\Documents\aylin\school\S02-Methods\P04-4. PrintingTriangle\obj\Debug\net7.0\ref\P04-4. PrintingTriangle.dll
